@@ -1,0 +1,12 @@
+[[ web society ]] Smith building - Room 206 - time???
+
+HTML XHMTL
+
+people who wrote bad HTML. Browsers guessed. Each of the browsers Guessed differently.
+
+XHTML -> we want strict standards!
+
+HTML5 -> is a step back saying ok we can....
+
+
+
